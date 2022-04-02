@@ -65,4 +65,18 @@ Note: it is still missing to provide the ships with more functionalities such as
 
 # IMAGES
 
-<a href="url"><img src="https://github.com/JohnEstebanAP/Taller1-Sofka/blob/main/Taller_1.png?raw=true" align="center" ></a>
+<a href="url"><img src="https://github.com/JohnEstebanAP/Softka-Taller2-de-disenio-y-programacion/blob/main/images/Pictures_46.png?raw=true" align="center" ></a>
+
+<a href="url"><img src="https://github.com/JohnEstebanAP/Softka-Taller2-de-disenio-y-programacion/blob/main/images/Pictures_47.png?raw=true" align="center" ></a>
+
+<a href="url"><img src="https://github.com/JohnEstebanAP/Softka-Taller2-de-disenio-y-programacion/blob/main/images/Pictures_48.png?raw=true" align="center" ></a>
+
+<a href="url"><img src="https://github.com/JohnEstebanAP/Softka-Taller2-de-disenio-y-programacion/blob/main/images/Pictures_49.png?raw=true" align="center" ></a>
+
+<a href="url"><img src="https://github.com/JohnEstebanAP/Softka-Taller2-de-disenio-y-programacion/blob/main/images/Pictures_50.png?raw=true" align="center" ></a>
+
+<a href="url"><img src="https://github.com/JohnEstebanAP/Softka-Taller2-de-disenio-y-programacion/blob/main/images/Pictures_51.png?raw=true" align="center" ></a>
+
+<a href="url"><img src="https://github.com/JohnEstebanAP/Softka-Taller2-de-disenio-y-programacion/blob/main/images/Pictures_52.png?raw=true" align="center" ></a>
+
+<a href="url"><img src="https://github.com/JohnEstebanAP/Softka-Taller2-de-disenio-y-programacion/blob/main/images/Pictures_53.png?raw=true" align="center" ></a>
