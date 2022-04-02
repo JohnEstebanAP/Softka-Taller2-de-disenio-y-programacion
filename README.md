@@ -63,6 +63,6 @@ The code contains a total of 9 classes which are
 Note: it is still missing to provide the ships with more functionalities such as being able to allow to select to which planets you want to perform an exploration in the spacecraft.
 
 
-# IMAGENE
+# IMAGES
 
 <a href="url"><img src="https://github.com/JohnEstebanAP/Taller1-Sofka/blob/main/Taller_1.png?raw=true" align="center" ></a>
