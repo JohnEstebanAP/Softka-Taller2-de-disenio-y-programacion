@@ -17,15 +17,15 @@ en total contiene 9 clases las cuales son
 
 * Interface Iacelerate.java Es la representación del método de aumento de velocidad de la nave espacial al despegar.
 
-*interface Iamortizer.java Es la representación del método de frenado o desaceleración de la nave al aterrizar.
+* Interface Iamortizer.java Es la representación del método de frenado o desaceleración de la nave al aterrizar.
 
-*interface Ifuel.java Es la representación del método del combustible que utiliza la nave espacial.
+* Interface Ifuel.java Es la representación del método del combustible que utiliza la nave espacial.
 
-*Clase MannedSpacerasft.java Es la representación del objeto o molde de lo  que sería una nave tripulada y todas sus características más relevantes.
+* Clase MannedSpacerasft.java Es la representación del objeto o molde de lo  que sería una nave tripulada y todas sus características más relevantes.
 
-*Clase UnmannedSpacerasft.java Es la representación del objeto de lo que sería una nave no tripulada como balizas o satélites con el objetivo de explorar otros planetas.
+* Clase UnmannedSpacerasft.java Es la representación del objeto de lo que sería una nave no tripulada como balizas o satélites con el objetivo de explorar otros planetas.
 
-*Clase ShuttleVehicles.java Es la representación de la nave de lanzadera, estas son las naves que se encargan de lanzar las naves tripuladas o no tripuladas al espacio exterior.
+* Clase ShuttleVehicles.java Es la representación de la nave de lanzadera, estas son las naves que se encargan de lanzar las naves tripuladas o no tripuladas al espacio exterior.
 
 Nota: aún falta dotar a las naves de más funcionalidades como poder permitir seleccionar a qué planetas se desea realizar una exploración en la nave espacial.
 
@@ -50,15 +50,15 @@ The code contains a total of 9 classes which are
 
 * Interface Iaccelerate.java It is the representation of the spacecraft speed increase method when taking off.
 
-*Interface Iamortizer.java It is the representation of the method of braking or deceleration of the spacecraft when landing.
+* Interface Iamortizer.java It is the representation of the method of braking or deceleration of the spacecraft when landing.
 
-*interface Ifuel.java It is the representation of the fuel method used by the spacecraft.
+* Interface Ifuel.java It is the representation of the fuel method used by the spacecraft.
 
-*MannedSpacerasft.java class It is the representation of the object or mold of what would be a manned spacecraft and all its most relevant characteristics.
+* MannedSpacerasft.java class It is the representation of the object or mold of what would be a manned spacecraft and all its most relevant characteristics.
 
-*UnmannedSpacerasft.java class It is the representation of the object of what would be an unmanned spacecraft such as beacons or satellites with the objective of exploring other planets.
+* UnmannedSpacerasft.java class It is the representation of the object of what would be an unmanned spacecraft such as beacons or satellites with the objective of exploring other planets.
 
-*ShuttleVehicles.java Class It is the representation of the shuttle ship, these are the ships that are in charge of launching manned or unmanned spacecraft into outer space.
+* ShuttleVehicles.java Class It is the representation of the shuttle ship, these are the ships that are in charge of launching manned or unmanned spacecraft into outer space.
 
 Note: it is still missing to provide the ships with more functionalities such as being able to allow to select to which planets you want to perform an exploration in the spacecraft.
 
